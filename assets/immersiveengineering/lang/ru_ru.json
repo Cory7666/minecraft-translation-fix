@@ -1,0 +1,21 @@
+{
+    "language": "Russian",
+    "language.code": "ru_ru",
+    "language.region": "Russia",
+    "itemGroup.immersiveengineering": "Immersive Engineering",
+
+    "advancement.immersiveengineering.buy_oremap": "Место, отмеченное крестиком",
+    "advancement.immersiveengineering.buy_oremap.desc": "Купите карту месторождений полезных ископаемых у инженера-строителя",
+    "advancement.immersiveengineering.skyhook_distance": "Букер, лови!",
+    "advancement.immersiveengineering.secret_friedbird": "Жареная птичка",
+    "advancement.immersiveengineering.secret_friedbird.desc": "Изоляция недоступна",
+    "item.immersiveengineering.grindingdisk": "Пильный диск",
+    "item.immersiveengineering.armor_faraday_helmet": "Шлем Фарадея",
+    "item.immersiveengineering.armor_faraday_chestplate": "Нагрудник Фарадея",
+    "item.immersiveengineering.armor_faraday_leggings": "Штаны Фарадея",
+    "item.immersiveengineering.armor_faraday_boots": "Ботинки Фарадея",
+    "item.immersiveengineering.armor_steel_helmet": "Стальной шлем",
+    "item.immersiveengineering.armor_steel_chestplate": "Стальной нагрудник",
+    "item.immersiveengineering.armor_steel_leggings": "Стальные поножи",
+    "item.immersiveengineering.armor_steel_boots": "Стальные ботинки"
+}
